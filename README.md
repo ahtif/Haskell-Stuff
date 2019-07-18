@@ -1,2 +1,2 @@
 # Haskell-Stuff
-Repository Haskell assignments/projects from my undergrad
+Repository of Haskell assignments/projects from my undergrad
